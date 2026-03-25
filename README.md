@@ -13,4 +13,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0009-palindrome-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
