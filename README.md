@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0704-binary-search](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -33,4 +34,8 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0704-binary-search/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
