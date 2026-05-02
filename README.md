@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -38,4 +39,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
