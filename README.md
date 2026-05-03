@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0704-binary-search/) | Easy |
@@ -30,6 +31,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +45,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0238-product-of-array-except-self/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
