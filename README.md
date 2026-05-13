@@ -27,12 +27,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0058-length-of-last-word/) | Easy |
+| [0344-reverse-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0075-sort-colors/) | Medium |
+| [0344-reverse-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
