@@ -23,11 +23,13 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0066-plus-one/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0344-reverse-string/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
