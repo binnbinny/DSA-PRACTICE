@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0704-binary-search/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -67,5 +68,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0055-jump-game/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
