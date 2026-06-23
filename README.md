@@ -34,6 +34,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Two Pointers
@@ -45,6 +46,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
