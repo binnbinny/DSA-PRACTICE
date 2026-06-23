@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0704-binary-search/) | Easy |
@@ -44,6 +45,7 @@
 | [0027-remove-element](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0283-move-zeroes](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0443-string-compression/) | Medium |
