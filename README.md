@@ -19,10 +19,12 @@
 | [0605-can-place-flowers](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0704-binary-search/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0001-two-sum/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0443-string-compression/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -73,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0075-sort-colors/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
