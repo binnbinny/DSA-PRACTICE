@@ -26,7 +26,7 @@ class Solution {
             if(newCount < 0){
                 return false;
             }
-            }
+         }
             else{
                 return false;
             }
