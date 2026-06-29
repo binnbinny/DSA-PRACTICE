@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0242-valid-anagram/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0392-is-subsequence/) | Easy |
@@ -76,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0075-sort-colors/) | Medium |
+| [0242-valid-anagram](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0242-valid-anagram/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
