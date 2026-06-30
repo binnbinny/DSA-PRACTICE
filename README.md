@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0383-ransom-note/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0383-ransom-note](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -87,4 +89,8 @@
 | [0055-jump-game](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0055-jump-game/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0605-can-place-flowers/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
