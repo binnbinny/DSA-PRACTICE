@@ -26,6 +26,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0383-ransom-note/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -40,6 +41,7 @@
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
