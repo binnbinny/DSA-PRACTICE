@@ -26,6 +26,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0290-word-pattern/) | Easy |
@@ -36,6 +37,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0066-plus-one/) | Easy |
+| [0202-happy-number](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0202-happy-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -60,6 +62,7 @@
 | [0027-remove-element](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
