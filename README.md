@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -28,6 +29,7 @@
 | [0169-majority-element](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0205-isomorphic-strings/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0383-ransom-note/) | Easy |
@@ -108,4 +110,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0169-majority-element/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
