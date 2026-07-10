@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0605-can-place-flowers](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0704-binary-search/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -32,6 +33,7 @@
 | [0219-contains-duplicate-ii](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0290-word-pattern/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0383-ransom-note/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Math
@@ -68,6 +70,7 @@
 | [0283-move-zeroes](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0443-string-compression/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -76,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0035-search-insert-position/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -93,6 +97,7 @@
 | [0075-sort-colors](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
