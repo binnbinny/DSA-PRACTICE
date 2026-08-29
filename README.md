@@ -20,6 +20,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0605-can-place-flowers](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0704-binary-search/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/binnbinny/DSA-PRACTICE/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -119,4 +120,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/binnbinny/DSA-PRACTICE/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
